@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"git.toolsfdg.net/be/liquid-mesh-svm-standalone/go/util"
+	"git.toolsfdg.net/be/liquid-mesh-svm-standalone/util"
 )
 
 func main() {
