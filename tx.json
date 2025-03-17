@@ -1,0 +1,26 @@
+{
+  "instructions": [
+    {
+      "programId": "HuTkmnrv4zPnArMqpbMbFhfwzTR7xfWQZHH1aQKzDKFZ",
+      "accounts": [
+        {
+          "publicKey": "DHicUK6e8nXp7UzsGP3zHvFNoKGCswN7GKxKQ1cBEDhX",
+          "isWritable": true,
+          "isSigner": true
+        }
+      ],
+      "data": "AA"
+    },
+    {
+      "programId": "HuTkmnrv4zPnArMqpbMbFhfwzTR7xfWQZHH1aQKzDKF1",
+      "accounts": [
+        {
+          "publicKey": "DHicUK6e8nXp7UzsGP3zHvFNoKGCswN7GKxKQ1cBEDhX",
+          "isWritable": true,
+          "isSigner": true
+        }
+      ],
+      "data": "AA"
+    }
+  ]
+}
